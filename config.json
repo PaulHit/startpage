@@ -5,7 +5,7 @@
       "links": [
         { "name": "Youtube", "url": "https://youtube.com/" },
         { "name": "Twitch", "url": "https://www.twitch.tv/" },
-        { "name": "Instagram", "url": "https://www.instagram.com/" },
+        { "name": "Reddit", "url": "https://reddit.com" },
         { "name": "Tidal", "url": "https://listen.tidal.com/" }
       ]
     },
@@ -21,9 +21,9 @@
     { "name": "social",
       "color": "#e5c07b",
       "links": [
+        { "name": "Whatsapp", "url": "https://web.whatsapp.com/" },
         { "name": "Discord", "url": "https://discord.com/channels/@me" },
         { "name": "Twitter", "url": "https://twitter.com/home" },
-        { "name": "Reddit", "url": "https://reddit.com" },
         { "name": "Facebook", "url": "https://www.facebook.com/" }
       ]
     },
