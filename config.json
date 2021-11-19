@@ -1,44 +1,95 @@
 {
   "squares": [
-    { "name": "media",
+    {
+      "name": "media",
       "color": "#61afef",
       "links": [
-        { "name": "Youtube", "url": "https://youtube.com/" },
-        { "name": "Twitch", "url": "https://www.twitch.tv/" },
-        { "name": "Reddit", "url": "https://reddit.com" },
-        { "name": "Tidal", "url": "https://listen.tidal.com/" }
+        {
+          "name": "Youtube",
+          "url": "https://youtube.com/"
+        },
+        {
+          "name": "Twitch",
+          "url": "https://www.twitch.tv/"
+        },
+        {
+          "name": "Reddit",
+          "url": "https://reddit.com"
+        },
+        {
+          "name": "Tidal",
+          "url": "https://listen.tidal.com/"
+        }
       ]
     },
-    { "name": "work",
+    {
+      "name": "work",
       "color": "#e06c75",
       "links": [
-        { "name": "Github", "url": "https://github.com" },
-        { "name": "Trello", "url":"https://trello.com/paulsamuelhiticas/boards" },
-        { "name": "Heroku", "url": "http://heroku.com/" },
-        { "name": "localhost", "url": "http://localhost:3000/" }
+        {
+          "name": "Github",
+          "url": "https://github.com"
+        },
+        {
+          "name": "Trello",
+          "url": "https://trello.com/paulsamuelhiticas/boards"
+        },
+        {
+          "name": "CS50",
+          "url": "https://cs50.harvard.edu/college/2021/fall/"
+        },
+        {
+          "name": "localhost",
+          "url": "http://localhost:3000/"
+        }
       ]
     },
-    { "name": "social",
+    {
+      "name": "social",
       "color": "#e5c07b",
       "links": [
-        { "name": "Whatsapp", "url": "https://web.whatsapp.com/" },
-        { "name": "Discord", "url": "https://discord.com/channels/@me" },
-        { "name": "Twitter", "url": "https://twitter.com/home" },
-        { "name": "Facebook", "url": "https://www.facebook.com/" }
+        {
+          "name": "Whatsapp",
+          "url": "https://web.whatsapp.com/"
+        },
+        {
+          "name": "Discord",
+          "url": "https://discord.com/channels/@me"
+        },
+        {
+          "name": "Twitter",
+          "url": "https://twitter.com/home"
+        },
+        {
+          "name": "Facebook",
+          "url": "https://www.facebook.com/"
+        }
       ]
     },
     {
       "name": "Others",
       "color": "#98c379",
       "links": [
-        {"name": "Gmail", "url": "http://gmail.com/"},
-        {"name": "Orar", "url": "http://cnpetruraresbn.ro/Orar/Orar%20clase.pdf"},
-        {"name": "Filelist", "url": "https://filelist.io/"},
-        {"name": "rarbg", "url": "http://rarbg.to"}
+        {
+          "name": "Gmail",
+          "url": "http://gmail.com/"
+        },
+        {
+          "name": "Orar",
+          "url": "http://cnpetruraresbn.ro/Orar/Orar%20clase.pdf"
+        },
+        {
+          "name": "Filelist",
+          "url": "https://filelist.io/"
+        },
+        {
+          "name": "rarbg",
+          "url": "http://rarbg.to"
+        }
       ]
     }
   ],
-  "searchEngine":"Google",
+  "searchEngine": "Google",
   "user": "Paul",
   "disableMessage": false,
   "disableDate": false,
