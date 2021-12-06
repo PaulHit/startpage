@@ -91,7 +91,7 @@
   ],
   "searchEngine": "Google",
   "user": "Paul",
-  "disableMessage": false,
+  "disableMessage": true,
   "disableDate": false,
   "disableSearchBar": false,
   "disable24Hour": true,
